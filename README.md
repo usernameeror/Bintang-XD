@@ -20,7 +20,7 @@
 #
 ### Github Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ramdhan7&show_icons=true&theme=radical)<br>
-<a href="https://github.com/usernameeror/Sanz"><img title="dragoncrack" src="https://github-readme-stats.vercel.app/api/pin/?username=Ramdhan7&repo=dragoncrack&theme=vision-friendly-dark"></a>
+<a href="https://github.com/usernameeror/sanz"><img title="sanz" src="https://github-readme-stats.vercel.app/api/pin/?username=usernameeror&repo=sanz&theme=vision-friendly-dark"></a>
 <a href="https://github.com/usernameeror/spammer"><img title="spammer" src="https://github-readme-stats.vercel.app/api/pin/?username=Ramdhan7&repo=spammer&theme=vision-friendly-dark"></a>
 <a href="https://github.com/usernameeror/small"><img title="small" src="https://github-readme-stats.vercel.app/api/pin/?username=Ramdhan7&repo=small&theme=vision-friendly-dark"></a>
 <a href="https://github.com/usernameeror/maniac"><img title="maniac" src="https://github-readme-stats.vercel.app/api/pin/?username=Ramdhan7&repo=maniac&theme=vision-friendly-dark"></a>
